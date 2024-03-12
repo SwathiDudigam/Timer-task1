@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'times new romen';
+    box-sizing: border-box;
+    
+
+}
+.container{
+    width:210vh;
+    height: 100vh;
+    background-color:rgb(9, 9, 61) ;
+    background-position: center;
+    background-size: cover;
+    padding: 0 8%;
+    color: white;
+    padding: 12% 20%;
+    justify-content: center;
+    text-align: center;
+   font-size: 30px;
+   font-weight: 300;
+
+}
+
+button{
+    width:80px;
+    height: 80px;
+    border-radius: 10px;
+    position: relative ;
+    margin-top: 50px;
+    font-size: 50px;
+}
+span{
+    color:white;
+    font-size: 15px;
+    font-weight: 400;
+    
+}
